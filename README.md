@@ -6,3 +6,7 @@ Equal learning partner.
 Open source contributor.
 MBA.
 Zend Certified PHP Engineer.
+
+
+
+[![hxtree's github stats](https://github-readme-stats.vercel.app/api?username=hxtree&count_private=true&show_icons=true&theme=dracula)](https://github.com/hxtree/github-readme-stats)
