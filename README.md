@@ -9,4 +9,4 @@ Zend Certified PHP Engineer.
 
 
 
-[![hxtree's github stats](https://github-readme-stats.vercel.app/api?username=hxtree&count_private=true&show_icons=true&theme=dracula)](https://github.com/hxtree/github-readme-stats)
+[![hxtree's github stats](https://github-readme-stats.vercel.app/api?username=hxtree&count_private=true&show_icons=true&theme=ocean_dark)](https://github.com/hxtree/github-readme-stats)
