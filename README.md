@@ -8,4 +8,4 @@ Equal learning partner. Open source contributor. Zend Certified PHP Engineer. MB
 
 ![hxtree's overall stats](https://github-readme-stats.vercel.app/api?username=hxtree&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true)
 
-![hxtree's lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hxtree&langs_count=3&hide_title=true&hide_border=true)
+![hxtree's lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hxtree&langs_count=5&hide_title=true&hide_border=true)
