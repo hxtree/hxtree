@@ -1,16 +1,16 @@
-😄 Hey Everybody!
+Hello Everyone!
 
 I'm Matthew, a senior software engineer with experience in aerospace, manufacturing, environmental, health, safety, education, stock market, game design, and most recently health insurance industries. I enjoy working with a **team** to address **real world problems** using open source software. 
 
 *  🦠 OSS Maintainer at [Ouxsoft](https://ouxsoft.com). 
 *  💻 Software Engineer at [Nexben](https://nexben.com).
-*  📈 Former Web Developer at [Nasdaq](https://www.nasdaq.com/).
+*  📈 Web Developer formerly at [Nasdaq](https://www.nasdaq.com/).
 *  🧮 Open source contributor.
 *  👫 Equal learning partner. 
 *  👨‍🎓 MBA.
 
 ## Tools & Langauges
-### Currently Using
+### Currently Using:
 ![ShellScript](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -52,7 +52,10 @@ I'm Matthew, a senior software engineer with experience in aerospace, manufactur
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-### Formerly Used
+
+<details>
+  <summary>Formerly Used</summary>
+  
 <!-- langagues -->
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Fanuc Robots](https://img.shields.io/badge/Fanuc%20Robotics-FFEF00?style=for-the-badge&logoColor=white)
@@ -122,6 +125,13 @@ I'm Matthew, a senior software engineer with experience in aerospace, manufactur
 ![Windows 95](https://img.shields.io/badge/Windows%2095-008484?style=for-the-badge&logo=windows95&logoColor=white)
 ![Windows 3.1](https://img.shields.io/badge/Windows%203.1-008484?style=for-the-badge&logo=windows95&logoColor=white)
 ![MSDOS](https://img.shields.io/badge/MSDOS-008484?style=for-the-badge&logo=Windows%20Terminal&logoColor=white)
+  ... and many more :-) 
+</details>
 
-## Github Stats
+
+<details>
+  <summary>GitHub Stats</summary>
+  
 ![hxtree's overall stats](https://github-readme-stats.vercel.app/api?username=hxtree&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true)
+</details>
+
