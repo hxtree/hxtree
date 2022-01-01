@@ -91,7 +91,7 @@ I'm Matthew, a senior software engineer with experience in aerospace, manufactur
 ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![VisualBasic6.0](https://img.shields.io/badge/Visual%20Basic%206.0-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![VisualBasic6.0](https://img.shields.io/badge/Visual%20Basic%206.0-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Less](https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white)
