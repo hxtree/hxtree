@@ -75,6 +75,7 @@ I'm Matthew, a senior software engineer with experience in aerospace, manufactur
 ![VisualBasic6.0](https://img.shields.io/badge/Visual%20Basic%206.0-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-39457E?style=for-the-badge&logoColor=white)
+![ActionScript](https://img.shields.io/badge/ActionScript-CC342D?style=for-the-badge&logoColor=white)
 ![LXD](https://img.shields.io/badge/LXD-00599C?style=for-the-badge&logoColor=white)
 ![LXC](https://img.shields.io/badge/LXC-00599C?style=for-the-badge&LogoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&LogoColor=white)
@@ -128,6 +129,7 @@ I'm Matthew, a senior software engineer with experience in aerospace, manufactur
 ![Maya](https://img.shields.io/badge/Maya-9999FF.svg?style=for-the-badge&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![Dreamweaver](https://img.shields.io/badge/Adobe%20Dreamweaver-072401?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=34F400)
+![Nano](https://img.shields.io/badge/Nano-000000.svg?style=for-the-badge&logo=Nano&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 ![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white) <!--Operating Systems --> 
@@ -143,7 +145,8 @@ I'm Matthew, a senior software engineer with experience in aerospace, manufactur
 ![Windows 95](https://img.shields.io/badge/Windows%2095-008484?style=for-the-badge&logo=windows95&logoColor=white)
 ![Windows 3.1](https://img.shields.io/badge/Windows%203.1-008484?style=for-the-badge&logo=windows95&logoColor=white)
 ![MSDOS](https://img.shields.io/badge/MSDOS-008484?style=for-the-badge&logo=Windows%20Terminal&logoColor=white)
-  ... and many more.
+  
+... and many others.
 </details>
 
 
