@@ -162,7 +162,7 @@ I'm **Matthew**, a senior software engineer with experience in aerospace, manufa
 ![LXC](https://img.shields.io/badge/LXC-00599C?style=for-the-badge&LogoColor=white)<!--Operating Systems --> 
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
 ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=linuxmint&LogoColor=white)
-![XFCE](https://img.shields.io/badge/XFCE-2284F2?style=for-the-badge&logo=XFCE&LogoColor=white)
+![XFCE](https://img.shields.io/badge/XFCE-2284F2?style=for-the-badge&logo=xfce&LogoColor=white)
 ![Alpine Linux](https://img.shields.io/badge/Alpine_Linux-%230D597F.svg?style=for-the-badge&logo=alpine-linux&logoColor=white)
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 ![Cent OS](https://img.shields.io/badge/cent%20os-002260?style=for-the-badge&logo=centos&logoColor=F0F0F0)
