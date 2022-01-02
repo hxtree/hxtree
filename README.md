@@ -83,8 +83,13 @@ I'm Matthew, a senior software engineer with experience in aerospace, manufactur
 ![Bootstrap2to4](https://img.shields.io/badge/bootstrap%202%20to%204-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Zurb Foundation](https://img.shields.io/badge/Zurb%20Foundation-563D7C.svg?style=for-the-badge&logoColor=white)
 ![Siimple](https://img.shields.io/badge/Siimple%20CSS-563D7C.svg?style=for-the-badge&logoColor=white)
-![HTML 2 to 4](https://img.shields.io/badge/html%202%20to%204-%23E34F26.svg?style=for-the-badge&logoColor=white)
-![CSS 1 and 2](https://img.shields.io/badge/CSS%201%20and%202-%23E34F26.svg?style=for-the-badge&logoColor=white)
+![XHTML DTD](https://img.shields.io/badge/XHTML%20DTD-E34F26.svg?style=for-the-badge&logoColor=white)
+![HTML 4.01](https://img.shields.io/badge/HTML%204.01-E34F26.svg?style=for-the-badge&logoColor=white)
+![HTML 3.2](https://img.shields.io/badge/HTML%203.2-E34F26.svg?style=for-the-badge&logoColor=white)
+![HTML 2](https://img.shields.io/badge/HTML%202.0-E34F26.svg?style=for-the-badge&logoColor=white)
+![HTML 1.0](https://img.shields.io/badge/HTML%201.0-E34F26.svg?style=for-the-badge&logoColor=white)
+![CSS2](https://img.shields.io/badge/CSS%202-E34F26.svg?style=for-the-badge&logoColor=white)
+![CSS1](https://img.shields.io/badge/CSS%201-E34F26.svg?style=for-the-badge&logoColor=white)
 ![BatchScript](https://img.shields.io/badge/Batch%20Script-008484?style=for-the-badge&logo=Windows%20Terminal&logoColor=white) <!-- package management --> 
 ![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white) <!-- session management --> 
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) <!-- third party libraries --> 
