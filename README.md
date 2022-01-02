@@ -1,6 +1,6 @@
 Hello Everyone!
 
-I'm Matthew, a senior software engineer with experience in aerospace, manufacturing, environmental, health, safety, education, stock market, game design, and most recently health insurance industries. I enjoy working with a **team** to address **real world problems** using open source software. 
+I'm **Matthew**, a senior software engineer with experience in aerospace, manufacturing, environmental, health, safety, education, stock market, game design, and most recently health insurance industries. I enjoy working with a **team** to address **real world problems** using open source software. 
 
 *  🦠 OSS Maintainer at [Ouxsoft](https://ouxsoft.com). 
 *  💻 Software Engineer at [Nexben](https://nexben.com).
