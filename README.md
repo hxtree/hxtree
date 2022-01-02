@@ -100,6 +100,7 @@ I'm Matthew, a senior software engineer with experience in aerospace, manufactur
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) <!-- Content Management Systems --> 
 ![Wordpress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Drupal](https://img.shields.io/badge/Drupal-0678BE?style=for-the-badge&logo=drupal&logoColor=white)
+![Moodle](https://img.shields.io/badge/Moodle-0678BE?style=for-the-badge&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) <!--Software --> 
 ![KeePass2](https://img.shields.io/badge/KeePass2-008484?style=for-the-badge&logo=KeePassXC&logoColor=white)
 ![KeeperSecurity](https://img.shields.io/badge/Keeper%20Security-000000?style=for-the-badge&logo=Enpass&logoColor=white)
@@ -128,7 +129,7 @@ I'm Matthew, a senior software engineer with experience in aerospace, manufactur
 ![Windows 95](https://img.shields.io/badge/Windows%2095-008484?style=for-the-badge&logo=windows95&logoColor=white)
 ![Windows 3.1](https://img.shields.io/badge/Windows%203.1-008484?style=for-the-badge&logo=windows95&logoColor=white)
 ![MSDOS](https://img.shields.io/badge/MSDOS-008484?style=for-the-badge&logo=Windows%20Terminal&logoColor=white)
-  ... and many more :-) 
+  ... and many more.
 </details>
 
 
