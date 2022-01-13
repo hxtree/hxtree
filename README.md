@@ -98,7 +98,9 @@ I'm **Matthew**, a senior software engineer with experience in aerospace, manufa
 ![BatchScript](https://img.shields.io/badge/Batch%20Script-008484?style=for-the-badge&logo=Windows%20Terminal&logoColor=white) <!-- package management --> 
 ![Zend Framework](https://img.shields.io/badge/Zend%20Framework-68B604?style=for-the-badge&logo=ZendFramework&LogoColor=white)
 ![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white)
-![Bootstrap2to4](https://img.shields.io/badge/bootstrap%202%20to%204-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Bootstrap 4](https://img.shields.io/badge/Bootstrap%204-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Bootstrap 3](https://img.shields.io/badge/Bootstrap%203-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Bootstrap 2](https://img.shields.io/badge/Bootstrap%202-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Zurb Foundation](https://img.shields.io/badge/Zurb%20Foundation-563D7C.svg?style=for-the-badge&logoColor=white)
 ![Siimple](https://img.shields.io/badge/Siimple%20CSS-563D7C.svg?style=for-the-badge&logoColor=white)
 ![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white) <!-- session management --> 
