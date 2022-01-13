@@ -5,7 +5,7 @@ I'm **Matthew**, a senior software engineer with experience in aerospace, manufa
 *  🦠 OSS Maintainer at [Ouxsoft](https://ouxsoft.com). 
 *  💻 Software Engineer at [Nexben](https://nexben.com).
 *  📈 Web Developer formerly at [Nasdaq](https://www.nasdaq.com/).
-*  👴 Happily coding since mid-90s.
+*  ☕ Happily coding since mid-90s.
 *  🧮 Open source contributor.
 *  👫 Equal learning partner. 
 *  ♟️ Blitz chess player.
