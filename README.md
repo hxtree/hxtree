@@ -111,7 +111,8 @@ I'm **Matthew**, a senior software engineer with experience in aerospace, manufa
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![MSSQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) <!-- search engine --> ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
+![MSSQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) <!-- search engine --> 
+![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
 ![Apache Solr](https://img.shields.io/badge/Apach%20Solr-005571?style=for-the-badge&logo=Apache%20Solr) <!-- Testing --> 
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)
 ![CodeCov](https://img.shields.io/badge/codecov-%23ff0077.svg?style=for-the-badge&logo=codecov&logoColor=white) <!-- CI and Orchestration --> 
@@ -137,6 +138,10 @@ I'm **Matthew**, a senior software engineer with experience in aerospace, manufa
 ![SAMBA](https://img.shields.io/badge/SAMBA-FAA918?style=for-the-badge&LogoColor=white)
 ![NTFS](https://img.shields.io/badge/NTFS-FAA918?style=for-the-badge&LogoColor=white)
 ![RADIUS](https://img.shields.io/badge/RADIUS-FAA918?style=for-the-badge&LogoColor=white)
+![NMAP](https://img.shields.io/badge/NMAP-FAA918?style=for-the-badge&LogoColor=white)
+![A++](https://img.shields.io/badge/A++-FAA918?style=for-the-badge&LogoColor=white)
+![On Prem Servers](https://img.shields.io/badge/On%20Prem%Servers-FAA918?style=for-the-badge&LogoColor=white)
+![RAID](https://img.shields.io/badge/RAID-FAA918?style=for-the-badge&LogoColor=white)
 ![Shibboleth SAMLl](https://img.shields.io/badge/Shibboleth%20saml-FAA918?style=for-the-badge&LogoColor=white)
 ![Authorize.net](https://img.shields.io/badge/Authorize.net-FAA918?style=for-the-badge&LogoColor=white)
 ![Salesforce](https://img.shields.io/badge/Salesforce-FAA918?style=for-the-badge&LogoColor=white)
