@@ -37,7 +37,8 @@ I enjoy working with a **team** to address **real world problems** using [good d
 ![Terraform](https://img.shields.io/badge/terraform-5835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) <!-- provider -->
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+![PNPM](https://img.shields.io/badge/PNPM-000000.svg?style=for-the-badge&logo=pnpm&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Packagist](https://img.shields.io/badge/Packagist-F28D1A?style=for-the-badge&logo=Packagist&LogoColor=white)
 ![Debain Bustr](https://img.shields.io/badge/Debian%20Buster-A81D33?style=for-the-badge&logo=debian&logoColor=white)<!-- operating systems -->
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
