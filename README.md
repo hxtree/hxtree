@@ -116,7 +116,7 @@ I enjoy working with a **team** to address **real world problems** using [good d
 ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![MaterialUI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white) <!-- infrastructure provider --> 
-![Serverless Stack](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logoColor=white) <!-- infrastructure provider -->   
+![Serverless Stack](https://img.shields.io/badge/Serverless%20Stack-FF81CB?style=for-the-badge&logoColor=white) <!-- infrastructure provider -->   
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) <!-- database --> 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B)
