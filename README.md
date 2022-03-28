@@ -144,8 +144,7 @@ I enjoy working with a **team** to address **real world problems** using [good d
 ![Shibboleth](https://img.shields.io/badge/Shibboleth-FAA918?style=for-the-badge&LogoColor=white)
 ![SAML](https://img.shields.io/badge/SAML-FAA918?style=for-the-badge&LogoColor=white)
 ![Oauth](https://img.shields.io/badge/OAuth-894501?style=for-the-badge&LogoColor=white)
-![RBAC](https://img.shields.io/badge/RBAC-554501?style=for-the-badge&LogoColor=white)  
-<!--Software --> 
+![RBAC](https://img.shields.io/badge/RBAC-554501?style=for-the-badge&LogoColor=white) <!--Software --> 
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&LogoColor=white)
 ![Mustache](https://img.shields.io/badge/Mustashe-FAA918?style=for-the-badge&logo=Handlebars.js&LogoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&LogoColor=white)
