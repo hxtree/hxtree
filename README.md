@@ -1,7 +1,6 @@
-Hello Everyone!
+## Welcome all,
 
-I'm **Matthew**, a senior software engineer with experience in aerospace, manufacturing, game design, environmental, health, safety, education, stock market, and most recently health insurance industries. 
-I enjoy working with a **team** to address **real world problems** using [good design](https://m.youtube.com/watch?v=DngAZyWMGR0&pp=QAFIAQ%3D%3D) and **open source software**. 
+I'm Matthew. I'm a sr software engineer with experience in aerospace, manufacturing, game design, environmental, health, safety, education, stock market, and most recently health insurance industries. I like to go far, which means working on a team. I enjoy addressing **real world problems** using [good design](https://m.youtube.com/watch?v=DngAZyWMGR0&pp=QAFIAQ%3D%3D) and **open source software**.
 
 *  🦠 OSS Maintainer at [Ouxsoft](https://ouxsoft.com). 
 *  💻 Software Engineer at [Nexben](https://nexben.com).
@@ -13,6 +12,8 @@ I enjoy working with a **team** to address **real world problems** using [good d
 *  👨‍🎓 MBA.
 
 ## Tools & Langauges
+nihil sub sole novum 😉
+
 ### Currently Using:
 <!-- reference https://shields.io/ and https://simpleicons.org/ -->
 <!-- langagues -->
@@ -34,7 +35,6 @@ I enjoy working with a **team** to address **real world problems** using [good d
 ![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![AWS CDK](https://img.shields.io/badge/AWS%20CDK-FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Terraform](https://img.shields.io/badge/terraform-5835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) <!-- provider -->
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
 ![PNPM](https://img.shields.io/badge/PNPM-000000.svg?style=for-the-badge&logo=pnpm&logoColor=white)
@@ -116,6 +116,7 @@ I enjoy working with a **team** to address **real world problems** using [good d
 ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![MaterialUI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white) <!-- infrastructure provider --> 
+![Terraform](https://img.shields.io/badge/terraform-5835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![Serverless Stack](https://img.shields.io/badge/Serverless%20Stack-FF81CB?style=for-the-badge&logoColor=white) <!-- infrastructure provider -->   
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) <!-- database --> 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
