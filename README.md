@@ -1,6 +1,6 @@
-## Welcome all,
+## Welcome,
 
-I'm Matthew. I'm a sr software engineer with experience in aerospace, manufacturing, game design, environmental, health, safety, education, stock market, and most recently health insurance industries. I like to go far, which means working on a team. I enjoy addressing **real world problems** using [good design](https://m.youtube.com/watch?v=DngAZyWMGR0&pp=QAFIAQ%3D%3D) and **open source software**.
+I'm Matthew, a sr software engineer with experience in aerospace, manufacturing, game design, environmental, health, safety, education, stock market, and most recently health insurance industries. I develop with **open source software** using [good design](https://m.youtube.com/watch?v=DngAZyWMGR0&pp=QAFIAQ%3D%3D) to address **real world problems**. I like to go far, and perfer to work with a team.
 
 *  🦠 OSS Maintainer at [Ouxsoft](https://ouxsoft.com). 
 *  💻 Software Engineer at [Nexben](https://nexben.com).
@@ -11,10 +11,10 @@ I'm Matthew. I'm a sr software engineer with experience in aerospace, manufactur
 *  ♟️ Blitz chess player.
 *  👨‍🎓 MBA.
 
-## Tools & Langauges
+### Tools & Langauges
 nihil sub sole novum 😉
 
-### Currently Using:
+#### Currently Using:
 <!-- reference https://shields.io/ and https://simpleicons.org/ -->
 <!-- langagues -->
 ![ShellScript](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
