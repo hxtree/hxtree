@@ -1,6 +1,6 @@
-## Welcome,
+Hi, I'm Matthew.
 
-I'm Matthew, a sr software engineer with experience in aerospace, manufacturing, game design, environmental, health, safety, education, stock market, and most recently health insurance industries. I develop with **open source software** using [good design](https://m.youtube.com/watch?v=DngAZyWMGR0&pp=QAFIAQ%3D%3D) to address **real world problems**. I like to go far, and perfer to work with a team.
+I develop with **open source software** using [good design](https://m.youtube.com/watch?v=DngAZyWMGR0&pp=QAFIAQ%3D%3D) to address **real world problems** from 9:5. I like to go far, and perfer to work with a team. I have experience range of industires including aerospace, manufacturing, game design, environmental, health, safety, education, stock market, and most recently health insurance. Outside of that and consulting, I try to share back what OSS I can.
 
 *  🦠 OSS Maintainer at [Ouxsoft](https://ouxsoft.com). 
 *  💻 Software Engineer at [Nexben](https://nexben.com).
@@ -10,6 +10,7 @@ I'm Matthew, a sr software engineer with experience in aerospace, manufacturing,
 *  👫 Equal learning partner. 
 *  ♟️ Blitz chess player.
 *  👨‍🎓 MBA.
+
 
 ### Tools & Langauges
 nihil sub sole novum 😉
