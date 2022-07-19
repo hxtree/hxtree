@@ -2,7 +2,7 @@
 
 ### Self-introduction
 
--  🌐 Develops with **open source software** and *good design* to address **real world problems** 9:5.
+-  🌐 Develops with **open source software** and *good design* to address **real world problems**.
 -  ☕ Happily coding since mid-90s.
 -  :necktie: Engineered software for aerospace, manufacturing, game design, environmental, health, safety, education, stock market, and health insurance industries.
 -  👫 Equal learning partner. 
