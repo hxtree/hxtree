@@ -13,7 +13,7 @@
 ### Hobbies
 
 -  🧮 Open source contributor.
--  👫 Maker. 
+-  :hammer: Maker. 
 -  ♟️ Blitz chess player.
 
 ### Anthropological Languages & Tools
