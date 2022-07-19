@@ -17,7 +17,7 @@
 -  ♟️ Blitz chess player.
 
 ### Anthropologic Languages & Tools
-> nihil sub sole novum 😉
+> "nihil sub sole novum" 😉
 
 <details>
   <summary>Present</summary>
