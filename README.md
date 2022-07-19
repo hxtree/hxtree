@@ -16,7 +16,7 @@
 -  :hammer: Maker. 
 -  ♟️ Blitz chess player.
 
-### Anthropological Languages & Tools
+### Anthropologic Languages & Tools
 > nihil sub sole novum 😉
 
 <details>
