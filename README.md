@@ -1,27 +1,26 @@
-### Self-introduction
-
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=hxtree&show_icons=true&theme=dracula&hide_border=true" width="400px">
 
--  🌐 Develops with **open source software** and good design to address **real world problems** 9:5.
--  :necktie: Software engineering experience in aerospace, manufacturing, game design, environmental, health, safety, education, stock market, and health insurance industries.
--  ☕ Happily coding since mid-90s.
--  👫 Equal learning partner. 
--  👨‍🎓 MBA. ZCE. 
+### Self-introduction
 
-  
+-  🌐 Develops with **open source software** and *good design* to address **real world problems** 9:5.
+-  ☕ Happily coding since mid-90s.
+-  :necktie: Engineered software for aerospace, manufacturing, game design, environmental, health, safety, education, stock market, and health insurance industries.
+-  👫 Equal learning partner. 
+-  👨‍🎓 MBA.
+
 <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=hxtree&show_icons=true&theme=dracula&layout=compact&hide_border=true" width="400px">
 
-### Hobby List
+### Hobbies
 
 -  🧮 Open source contributor.
 -  👫 Maker. 
 -  ♟️ Blitz chess player.
 
 ### Anthropological Languages & Tools
-nihil sub sole novum 😉
+> nihil sub sole novum 😉
 
 <details>
-  <summary>Currently Using</summary>
+  <summary>Present</summary>
   
 <!-- reference https://shields.io/ and https://simpleicons.org/ -->
 <!-- langagues -->
@@ -73,7 +72,7 @@ nihil sub sole novum 😉
 </details>
 
 <details>
-  <summary>Formerly Used</summary>
+  <summary>Past</summary>
   
 <!-- langagues -->
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -227,3 +226,6 @@ nihil sub sole novum 😉
   
 ... etc.
 </details>
+
+
+<img src="https://www.zend.com/sites/zend/files/image/2019-09/zce-php-engineer-logo-l.jpg" width="69px" height="64px" alt="ZCE"/>
