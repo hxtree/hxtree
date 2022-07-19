@@ -2,8 +2,9 @@
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=hxtree&show_icons=true&theme=dracula&hide_border=true" width="400px">
 
+-  🌐 Develops with **open source software** and good design to address **real world problems** 9:5.
+-  :necktie: Software engineering experience in aerospace, manufacturing, game design, environmental, health, safety, education, stock market, and health insurance industries.
 -  ☕ Happily coding since mid-90s.
--  🌐 Works with **open source software** and good design to address **real world problems** 9:5. Software engineering experience in aerospace, manufacturing, game design, environmental, health, safety, education, stock market, and health insurance industries.
 -  👫 Equal learning partner. 
 -  👨‍🎓 MBA. ZCE. 
 
