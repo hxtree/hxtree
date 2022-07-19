@@ -1,21 +1,27 @@
-Hi, I'm Matthew.
+### Self-introduction
 
-I develop with **open source software** using [good design](https://m.youtube.com/watch?v=DngAZyWMGR0&pp=QAFIAQ%3D%3D) to address **real world problems** from 9:5. I like to go far, and perfer to work with a team. I have engineering experience in a range of industires including aerospace, manufacturing, game design, environmental, health, safety, education, stock market, and most recently health insurance. Outside of that and consulting, I try to share back what OSS I can.
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=hxtree&show_icons=true&theme=dracula&hide_border=true" width="400px">
 
-*  🦠 OSS Maintainer at [Ouxsoft](https://ouxsoft.com). 
-*  💻 Software Engineer at [Nexben](https://nexben.com).
-*  📈 Web Developer formerly at [Nasdaq](https://www.nasdaq.com/).
-*  ☕ Happily coding since mid-90s.
-*  🧮 Open source contributor.
-*  👫 Equal learning partner. 
-*  ♟️ Blitz chess player.
-*  👨‍🎓 MBA.
+-  ☕ Happily coding since mid-90s.
+-  🌐 Works with **open source software** and good design to address **real world problems** 9:5. Software engineering experience in aerospace, manufacturing, game design, environmental, health, safety, education, stock market, and health insurance industries.
+-  👫 Equal learning partner. 
+-  👨‍🎓 MBA. ZCE. 
 
+  
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=hxtree&show_icons=true&theme=dracula&layout=compact&hide_border=true" width="400px">
 
-### Tools & Langauges
+### Hobby List
+
+-  🧮 Open source contributor.
+-  👫 Maker. 
+-  ♟️ Blitz chess player.
+
+### Anthropological Languages & Tools
 nihil sub sole novum 😉
 
-#### Currently Using:
+<details>
+  <summary>Currently Using</summary>
+  
 <!-- reference https://shields.io/ and https://simpleicons.org/ -->
 <!-- langagues -->
 ![ShellScript](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
@@ -63,6 +69,7 @@ nihil sub sole novum 😉
 ![KeePassXC](https://img.shields.io/badge/KeePassXC-6CAC4D?style=for-the-badge&logo=KeePassXC&logoColor=white)
 ![VLC media player](https://img.shields.io/badge/VLC-FF8800?style=for-the-badge&logo=vlcmediaplayer&LogoColor=white)
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
+</details>
 
 <details>
   <summary>Formerly Used</summary>
@@ -217,13 +224,5 @@ nihil sub sole novum 😉
 ![Windows 3.1](https://img.shields.io/badge/Windows%203.1-008484?style=for-the-badge&logo=windows95&logoColor=white)
 ![MSDOS](https://img.shields.io/badge/MSDOS-008484?style=for-the-badge&logo=Windows%20Terminal&logoColor=white)
   
-... and many others.
+... etc.
 </details>
-
-
-<details>
-  <summary>GitHub Stats</summary>
-  
-![hxtree's overall stats](https://github-readme-stats.vercel.app/api?username=hxtree&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true)
-</details>
-
