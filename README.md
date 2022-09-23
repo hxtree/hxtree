@@ -1,4 +1,4 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=hxtree&show_icons=true&theme=dracula&hide_border=true" width="400px">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=hxtree&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true" width="400px">
 
 ### Self-introduction
 
