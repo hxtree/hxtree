@@ -2,11 +2,9 @@
 
 ### Self-introduction
 
--  🌐 Develops with **open source software** and *good design* to address **real world problems**.
--  ☕ Happily coding since mid-90s.
+-  ☕ Happily coding with **open source software** and *good design* to address **real world problems** since mid-90s.
 -  :necktie: Engineered software for aerospace, manufacturing, game design, environmental, health, safety, education, stock market, and health insurance industries.
 -  👫 Equal learning partner. 
--  👨‍🎓 MBA.
 
 <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=hxtree&show_icons=true&theme=dracula&layout=compact&hide_border=true" width="400px">
 
