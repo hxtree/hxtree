@@ -6,8 +6,6 @@
 -  :necktie: Engineered software for aerospace, manufacturing, game design, environmental, health, safety, education, stock market, and health insurance industries.
 -  👫 Equal learning partner. 
 
-<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=hxtree&show_icons=true&theme=dracula&layout=compact&hide_border=true" width="400px">
-
 ### Hobbies
 
 -  🧮 Open source contributor.
