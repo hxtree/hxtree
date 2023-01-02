@@ -1,8 +1,8 @@
 ### Self-introduction
 
--  ☕ Happily coding with **open source software** and *good design* to address **real world problems** since mid-90s.
--  :necktie: Engineered software for aerospace, manufacturing, game design, environmental, health, safety, education, stock market, and health insurance industries.
--  👫 Equal learning partner. 
+-  ☕ Happily coding with **open source software** using *good design* to address **real world problems** since mid-90s.
+-  :necktie: Engineered software professionally for aerospace, manufacturing, game design, environmental, health, safety, education, stock market, and health insurance industries since '05.
+-  👫 Equal learning partner.
 
 ### Hobbies
 
