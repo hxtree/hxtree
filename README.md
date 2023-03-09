@@ -1,10 +1,12 @@
-### Self-introduction
+# About Me
 
--  ☕ Happily coding with **open source software** using *good design* to address **real world problems** since mid-90s.
--  :necktie: Engineered software professionally for aerospace, manufacturing, game design, environmental, health, safety, education, stock market, and health insurance industries since '05.
--  👫 Equal learning partner.
+[![GitHub](https://img.shields.io/badge/GitHub-%40hxtree-239a3b.svg)](https://github.com/hxtree)
 
-### Hobbies
+Hi, I am [@hxtree](https://github.com/hxtree). I've been happily coding with **open source software** using *good design* to address **real world problems** since the mid-90s. I've engineered software professionally for aerospace, manufacturing, game design, environmental, health, safety, education, stock market, and health insurance industries since '05.
+
+👫 Equal learning partner.
+
+## Hobbies
 
 -  🧮 Open source contributor.
 -  :hammer: Maker.
@@ -15,7 +17,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=hxtree&theme=gruvbox&hide_border=true" width="400px">
 
 
-### Anthropologic Languages & Tools
+## Anthropologic Languages & Tools
 
 <details>
   <summary>Present</summary>
