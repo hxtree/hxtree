@@ -6,12 +6,6 @@ Hi, I am [@hxtree](https://github.com/hxtree). I've been happily coding with **o
 
 👫 Equal learning partner.
 
-## Hobbies
-
--  🧮 Open source contributor.
--  :hammer: Maker.
--  :triangular_flag_on_post: CTF.
-
 <img align='left' src="https://github-readme-stats.vercel.app/api?username=hxtree&show_icons=true&theme=gruvbox&hide_border=true&include_all_commits=true&custom_title=$%20HXTREE%20>%20vmstats" width="400px">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=hxtree&theme=gruvbox&hide_border=true" width="400px">
