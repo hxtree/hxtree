@@ -213,12 +213,10 @@ Hi, I am [@hxtree](https://github.com/hxtree). I've been happily coding with **o
 ![Windows 3.1](https://img.shields.io/badge/Windows%203.1-008484?style=for-the-badge&logo=windows95&logoColor=white)
 ![MSDOS](https://img.shields.io/badge/MSDOS-008484?style=for-the-badge&logo=Windows%20Terminal&logoColor=white)
   
-... etc.
+... and more.
 
 > "nihil sub sole novum" 😉
 
-<img src="https://www.zend.com/sites/zend/files/image/2019-09/zce-php-engineer-logo-l.jpg" width="69px" height="64px" alt="ZCE"/>
-Fundamentals of Web Design - Cisco Network Acadmey '05
 </details>
 
 
