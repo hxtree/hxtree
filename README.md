@@ -2,14 +2,9 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-%40hxtree-239a3b.svg)](https://github.com/hxtree)
 
-Hi, I am [@hxtree](https://github.com/hxtree). I've been happily coding with **open source software** using *good design* to address **real world problems** since the mid-90s. I've engineered software professionally for aerospace, manufacturing, game design, environmental, health, safety, education, stock market, and health insurance industries since '05.
+Hi, I am [@hxtree](https://github.com/hxtree). I've been happily coding with **open source software** using *good design* to address **real world problems** since the mid-90s.
 
 👫 Equal learning partner.
-
-<img align='left' src="https://github-readme-stats.vercel.app/api?username=hxtree&show_icons=true&theme=gruvbox&hide_border=true&include_all_commits=true&custom_title=$%20HXTREE%20>%20vmstats" width="400px">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hxtree&theme=gruvbox&hide_border=true" width="400px">
-
 
 ## Anthropologic Languages & Tools
 
