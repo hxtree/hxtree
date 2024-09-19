@@ -2,10 +2,10 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-%40hxtree-239a3b.svg)](https://github.com/hxtree)
 
-Hi, I am [@hxtree](https://github.com/hxtree). a software engineer who's been solving real-world challenges with open source software since the mid-90s.
+Hi, I am [@hxtree](https://github.com/hxtree). a senior software engineer lead who's been solving real-world challenges with open source software since the mid-90s.
 
 * 👫 Equal learning partner.
-* ❔ Immersed in the realm of the unknown.
+* ❔ Continuous learning.
 
 ## Languages & Tools
 
