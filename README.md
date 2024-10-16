@@ -26,7 +26,6 @@ From an anthropological standpoint, our selection of languages and tools goes be
 ![Bootstrap5](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -46,8 +45,8 @@ From an anthropological standpoint, our selection of languages and tools goes be
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Dependabot](https://img.shields.io/badge/dependabot-025E8C?style=for-the-badge&logo=dependabot&logoColor=white)
-![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
+![NeoVim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=neovim&logoColor=white)
 ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
@@ -55,13 +54,14 @@ From an anthropological standpoint, our selection of languages and tools goes be
 ![Zbrush](https://img.shields.io/badge/Zbrush-000000.svg?style=for-the-badge&logoColor=white)
 ![KeePassXC](https://img.shields.io/badge/KeePassXC-6CAC4D?style=for-the-badge&logo=KeePassXC&logoColor=white)
 ![VLC media player](https://img.shields.io/badge/VLC-FF8800?style=for-the-badge&logo=vlcmediaplayer&LogoColor=white)
-![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
 </details>
 
 <details>
   <summary>Past</summary>
   
 <!-- langagues -->
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![PHP 8.x](https://img.shields.io/badge/PHP%208.x-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![PHP 7.x](https://img.shields.io/badge/PHP%207.x-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
@@ -146,6 +146,7 @@ From an anthropological standpoint, our selection of languages and tools goes be
 ![SAML](https://img.shields.io/badge/SAML-FAA918?style=for-the-badge&LogoColor=white)
 ![Oauth](https://img.shields.io/badge/OAuth-894501?style=for-the-badge&LogoColor=white)
 ![RBAC](https://img.shields.io/badge/RBAC-554501?style=for-the-badge&LogoColor=white) <!--Software --> 
+![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&LogoColor=white)
 ![Mustache](https://img.shields.io/badge/Mustashe-FAA918?style=for-the-badge&logo=Handlebars.js&LogoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&LogoColor=white)
