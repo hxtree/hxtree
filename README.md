@@ -1,15 +1,40 @@
 # About Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-%40hxtree-239a3b.svg)](https://github.com/hxtree)
+**System Engineer | PMP-certified | Thought Leader**  
+Software Engineering Lead (SEL) for a high-traffic, front-facing platform at **a leading global financial services firm managing trillions in assets**, serving millions of users monthly.  
 
-Hi, I am [@hxtree](https://github.com/hxtree). a senior software engineer lead who's been solving real-world challenges with open source software since the mid-90s.
+I bring **decades of experience in software engineering and architecture** and currently focus on **cloud-native systems and AWS architecture**. I share practical insights from real-world production systems, run **weekly dev jams** with my team, and maintain evolving open-source libraries — check my profile to see what I’m working on.
 
-* 👫 Equal learning partner.
-* ❔ Continuous learning.
+---
+
+## What I’m Working On
+
+- Architecting and evolving a high-traffic platform serving millions of users  
+- Designing cloud-native systems on AWS (AWS Solutions Architect – Professional in progress)  
+- Running dev jams to experiment, learn, and share ideas  
+- 3D printing and painting models  
+- Building a high-tech camper van
+
+---
+
+## What I Share
+
+- Lessons from high-traffic production systems  
+- Cloud-native patterns & AWS architecture insights  
+- Dev jam experiments you can try in your projects  
+- Open-source libraries & tools for solving real-world problems  
+
+---
+
+## Follow Along
+
+If you’re interested in **pragmatic system design, cloud architecture, dev jams, and creative engineering projects**, follow for insights, experiments, and tips.
+
+---
 
 ## Languages & Tools
 
-From an anthropological standpoint, our selection of languages and tools goes beyond code; it becomes the cultural fabric of our tech ecosystem. I've gravitated towards tools that serve not just as enablers for engineers but as catalysts for a user-centric experience.
+I choose languages and tools not just for performance, but for how they **shape thinking, collaboration, and long-term system evolution**. My focus is on clarity, maintainability, and real-world impact.
 
 <details>
   <summary>Present</summary>
