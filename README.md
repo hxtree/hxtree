@@ -1,11 +1,9 @@
 # About Me
 
 **System Engineer | PMP-certified | Thought Leader**  
-Software Engineering Lead (SEL) for a high-traffic, front-facing platform at **a leading global financial services firm managing trillions in assets**, serving millions of users monthly.  
+Software Engineering Lead (SEL) for a high-traffic, front-facing platform at a leading global financial services firm managing trillions in assets, serving millions of users monthly.  
 
 I bring **decades of experience in software engineering and architecture** and currently focus on **cloud-native systems and AWS architecture**. I share practical insights from real-world production systems, run **weekly dev jams** with my team, and maintain evolving open-source libraries — check my profile to see what I’m working on.
-
----
 
 ## What I’m Working On
 
@@ -15,22 +13,12 @@ I bring **decades of experience in software engineering and architecture** and c
 - 3D printing and painting models  
 - Building a high-tech camper van
 
----
-
 ## What I Share
 
 - Lessons from high-traffic production systems  
 - Cloud-native patterns & AWS architecture insights  
 - Dev jam experiments you can try in your projects  
 - Open-source libraries & tools for solving real-world problems  
-
----
-
-## Follow Along
-
-If you’re interested in **pragmatic system design, cloud architecture, dev jams, and creative engineering projects**, follow for insights, experiments, and tips.
-
----
 
 ## Languages & Tools
 
